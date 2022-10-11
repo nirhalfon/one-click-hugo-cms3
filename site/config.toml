@@ -1,4 +1,5 @@
 baseurl = "/"
+defaultContentLanguage = 'he'
 languageCode = "he-il"
 languageLang = "he"
 languagedirection = 'rtl'
